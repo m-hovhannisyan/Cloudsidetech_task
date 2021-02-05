@@ -1,0 +1,45 @@
+{
+    "banks_manu":{
+        "1":"Banks",
+        "2":"Excgange points",
+        "3":"Credit Organization",
+        "4":"Investment Organization",
+        "5":"Central Bank",
+        "6":"International Rate"
+    },
+    "types":{
+        "1":"Exchange type",
+        "2":"Rate type"
+    },
+    "change_type":{
+        "rad1":"Non cash",
+        "rad2":"Cash",
+        "rad3":"Card",
+        "rad4":"Flat",
+        "rad5":"Cross"
+    },
+    "banks_names":{
+        "hsbc":"HSBC Bank Armania",
+        "converse":"Converse Bank"
+    },
+    "table_manu":{
+        "td1":"Bank",
+        "td2":"Branches",
+        "td3":"Date",
+        "td4":"Buy",
+        "td5":"Sell"
+    },
+    "min_max":{
+        "min":"Minimum",
+        "max":"Maximum",
+        "avg":"Average",
+        "fl":"Fluctuation"
+    },
+    "branch":{
+        "1":"Choose the nearest branch for you and save your time! "
+    }
+
+  
+    
+
+}
